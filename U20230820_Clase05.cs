@@ -14,8 +14,8 @@ namespace MyApp// Note: actual namespace depends on the project name.
 
           //Declaracion variable de tipo texto con asignacion desde el codigo
 
-          string? facultad="Ingenieria y Arquitectura";
-          string? profesion="Ingenieria en Desarrollo de Software";
+          string facultad="Ingenieria y Arquitectura";
+          string profesion="Ingenieria en Desarrollo de Software";
 
           //Declaracion de variable entera captura desde consola
 
@@ -27,10 +27,10 @@ namespace MyApp// Note: actual namespace depends on the project name.
 
           //Declaracion de variable double  asignando valor desde consola
 
-          double coutaUniversidad=90.0;
+          double coutaUniversidad=0.0;
 
           //Declaracion de variable decimales asingando valores
-          double gastosTrasporte=120.50;
+          double gastosTrasporte=35.50;
 
           ///CAPTURA DE DATOS DESDE CONSOLA
 
@@ -62,8 +62,8 @@ namespace MyApp// Note: actual namespace depends on the project name.
           Console.WriteLine("*****************************************************\n\n");
           Console.WriteLine("\n-----IMPRESION DE DATOS DE TIPO ENTERO -----");
           Console.WriteLine("\n El año que ingreso a la  universidad fue >> " + anioIngreso);
-          Console.WriteLine("\n La edad cuando inicio sus estudios es  >> " + edadIngreso);
-          Console.WriteLine("\n La edad cuando finalize sus estudios sera >> " + edadEgreso);
+          Console.WriteLine("\n La edad cuando inicio sus estudios es  >> " + edadIngreso +" años");
+          Console.WriteLine("\n La edad cuando finalize sus estudios sera >> " + edadEgreso +" años");
           Console.WriteLine("\n*****************************************************\n");
 
           Console.WriteLine("*****************************************************\n\n");

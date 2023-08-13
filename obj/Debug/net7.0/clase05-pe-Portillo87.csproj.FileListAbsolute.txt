@@ -13,3 +13,18 @@ C:\Users\MINED\Desktop\semana 2 de programacion\Repositorio_Practicas\Clase 05\c
 C:\Users\MINED\Desktop\semana 2 de programacion\Repositorio_Practicas\Clase 05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.pdb
 C:\Users\MINED\Desktop\semana 2 de programacion\Repositorio_Practicas\Clase 05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.genruntimeconfig.cache
 C:\Users\MINED\Desktop\semana 2 de programacion\Repositorio_Practicas\Clase 05\clase05-pe-Portillo87\obj\Debug\net7.0\ref\clase05-pe-Portillo87.dll
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\bin\Debug\net7.0\clase05-pe-Portillo87.exe
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\bin\Debug\net7.0\clase05-pe-Portillo87.deps.json
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\bin\Debug\net7.0\clase05-pe-Portillo87.runtimeconfig.json
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\bin\Debug\net7.0\clase05-pe-Portillo87.dll
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\bin\Debug\net7.0\clase05-pe-Portillo87.pdb
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.csproj.AssemblyReference.cache
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.AssemblyInfoInputs.cache
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.AssemblyInfo.cs
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.csproj.CoreCompileInputs.cache
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.dll
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\refint\clase05-pe-Portillo87.dll
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.pdb
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\clase05-pe-Portillo87.genruntimeconfig.cache
+C:\Users\MINED\Desktop\Clase_05\clase05-pe-Portillo87\obj\Debug\net7.0\ref\clase05-pe-Portillo87.dll
