@@ -22,8 +22,8 @@ namespace MyApp// Note: actual namespace depends on the project name.
           int anioIngreso=0;
 
           //Declaracion de variable entera asignando valores
-          int edadIngreso=23;
-          int edadEgreso=27;
+          int edadIngreso=35;
+          int edadEgreso=41;
 
           //Declaracion de variable double  asignando valor desde consola
 
