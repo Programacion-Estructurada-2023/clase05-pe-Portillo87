@@ -10,12 +10,12 @@ namespace MyApp// Note: actual namespace depends on the project name.
 
           //Declaracion de variables de tipo texto con captura desde consola
 
-          string universidad="";
+          string? universidad="";
 
           //Declaracion variable de tipo texto con asignacion desde el codigo
 
-          string facultad="Ingenieria y Arquitectura";
-          string profesion="Ingenieria en Desarrollo de Software";
+          string? facultad="Ingenieria y Arquitectura";
+          string? profesion="Ingenieria en Desarrollo de Software";
 
           //Declaracion de variable entera captura desde consola
 
